@@ -1,0 +1,2 @@
+# -MOVIE-SCRIPT-LLM
+HOW CAN YOU CREATE A DATASET FROM A MOVIE SCRIPT ? Using gpt-3.5-turbo-16k / EleutherAI/gpt-neo-2.7B
